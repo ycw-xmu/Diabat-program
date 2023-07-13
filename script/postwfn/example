@@ -1,0 +1,9 @@
+## This is an example of the input file for diabatic program.
+## The symbol # represents comment.
+
+# wave function post-processing module
+$postwfn
+
+  # this module is currently not available.
+
+$
